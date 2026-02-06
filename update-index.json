@@ -1,5 +1,5 @@
 {
-    "tag":  "1.6",
+    "tag":  "v1.6",
     "revision":  "639059594559844496",
     "generated_at":  "2026-02-06T07:24:15.9874502Z",
     "assets":  [
@@ -9,4 +9,5 @@
                    "integrity.json",
                    "integrity.sig"
                ]
+
 }
