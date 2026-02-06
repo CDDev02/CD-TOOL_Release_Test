@@ -1,7 +1,7 @@
 {
-    "tag":  "v1.6",
-    "revision":  "639059585041568738",
-    "generated_at":  "2026-02-06T07:08:24.1598743Z",
+    "tag":  "1.6",
+    "revision":  "639059589793069620",
+    "generated_at":  "2026-02-06T07:16:19.3109806Z",
     "assets":  [
                    "CDTOOL.dll",
                    "CDTOOL.Core.dll",
