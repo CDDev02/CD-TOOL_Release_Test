@@ -1,10 +1,11 @@
 ﻿{
-    "tag":  "installer",
+    "tag":  "v1.5.1",
     "revision":  "639059531767959523",
     "generated_at":  "2026-02-06T05:39:36.7999528Z",
     "assets":  [
-                   "CDTOOL_Setup.exe",
-                   "CDTOOL_Updater.exe",
+                   "CDTOOL.dll",
+                   "CDTOOL.Core.dll",
+                   "CDTOOL_LSPLOAD.VLX",
                    "integrity.json",
                    "integrity.sig"
                ]
