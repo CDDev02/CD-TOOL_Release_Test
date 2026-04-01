@@ -1,21 +1,10 @@
 {
     "tag":  "v1.7.1",
-    "revision":  "639106089025166795",
-    "generated_at":  "2026-04-01T02:55:02.5196802Z",
+    "revision":  "639106176938744824",
+    "generated_at":  "2026-04-01T05:21:33.8774831Z",
     "assets":  [
-                   "CDTOOL.2017.Map3D.dll",
-                   "CDTOOL.2020.dll",
-                   "CDTOOL.Core.2017.Map3D.dll",
-                   "CDTOOL.Core.2020.dll",
-                   "CDTOOL.Host.2017.Map3D.dll",
-                   "CDTOOL.Host.2020.dll",
-                   "CDTOOL.Map.2017.Map3D.dll",
-                   "CDTOOL.Map.Core.2017.Map3D.dll",
                    "integrity.json",
-                   "integrity.runtime.2017_MAP3D.json",
-                   "integrity.runtime.2017_MAP3D.sig",
-                   "integrity.runtime.2020.json",
-                   "integrity.runtime.2020.sig",
-                   "integrity.sig"
+                   "integrity.sig",
+                   "release-upload-dll.zip"
                ]
 }
