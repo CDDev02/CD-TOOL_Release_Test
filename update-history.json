@@ -2,8 +2,8 @@
     "items":  [
                   {
                       "tag":  "v1.7.1",
-                      "published_at":  "2026-04-01T06:26:33.1850630Z",
-                      "body":  "릴리즈 노트는 GitHub Releases 페이지를 확인하세요."
+                      "published_at":  "2026-04-01T06:34:02Z",
+                      "body":  "🔧 기능 개선\r\n\r\nAutocad 2017 Map3D \u0026 Autocad 2020 호환성 패치"
                   },
                   {
                       "tag":  "v1.7",
