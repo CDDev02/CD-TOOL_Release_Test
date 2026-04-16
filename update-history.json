@@ -1,9 +1,14 @@
 {
     "items":  [
                   {
-                      "tag":  "v1.7.2",
-                      "published_at":  "2026-04-01T08:30:56.2877833Z",
+                      "tag":  "v1.7.3",
+                      "published_at":  "2026-04-16T05:27:09.0938491Z",
                       "body":  "릴리즈 노트는 GitHub Releases 페이지를 확인하세요."
+                  },
+                  {
+                      "tag":  "v1.7.2",
+                      "published_at":  "2026-04-08T05:45:32Z",
+                      "body":  "🔧 기능 개선\r\n\r\n- 종단면도 오류 개선 및 UI/UX 개선\r\n- Updater UI/UX 개선"
                   },
                   {
                       "tag":  "v1.7.1",
