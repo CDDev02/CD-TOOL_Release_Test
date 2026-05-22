@@ -1,9 +1,9 @@
 {
     "items":  [
                   {
-                      "tag":  "v1.8.1",
-                      "published_at":  "2026-05-22T07:04:39Z",
-                      "body":  "",
+                      "tag":  "v1.8.0",
+                      "published_at":  "2026-05-22T07:53:25.2358104Z",
+                      "body":  "릴리즈 노트는 GitHub Releases 페이지를 확인하세요.",
                       "featureIds":  [
                                          "layer-map",
                                          "drawing-cleanup",
@@ -41,8 +41,38 @@
                                      ],
                       "featureChanges":  [
                                              {
-                                                 "changeId":  "chg-v1.8.1-layer-map-updated",
+                                                 "changeId":  "chg-v1.8.0-area-object-cleanup-new",
+                                                 "featureId":  "area-object-cleanup",
+                                                 "type":  "new",
+                                                 "displayAs":  "badge"
+                                             },
+                                             {
+                                                 "changeId":  "chg-v1.8.0-layer-rule-audit-new",
+                                                 "featureId":  "layer-rule-audit",
+                                                 "type":  "new",
+                                                 "displayAs":  "badge"
+                                             },
+                                             {
+                                                 "changeId":  "chg-v1.8.0-mms-qa-new",
+                                                 "featureId":  "mms-qa",
+                                                 "type":  "new",
+                                                 "displayAs":  "badge"
+                                             },
+                                             {
+                                                 "changeId":  "chg-v1.8.0-layer-map-updated",
                                                  "featureId":  "layer-map",
+                                                 "type":  "updated",
+                                                 "displayAs":  "badge"
+                                             },
+                                             {
+                                                 "changeId":  "chg-v1.8.0-contour-interpolation-updated",
+                                                 "featureId":  "contour-interpolation",
+                                                 "type":  "updated",
+                                                 "displayAs":  "badge"
+                                             },
+                                             {
+                                                 "changeId":  "chg-v1.8.0-utility-depth-updated",
+                                                 "featureId":  "utility-depth",
                                                  "type":  "updated",
                                                  "displayAs":  "badge"
                                              }
