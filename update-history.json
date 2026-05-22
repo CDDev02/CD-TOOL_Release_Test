@@ -1,6 +1,54 @@
 {
     "items":  [
                   {
+                      "tag":  "v1.8.1",
+                      "published_at":  "2026-05-22T07:03:26.3574367Z",
+                      "body":  "릴리즈 노트는 GitHub Releases 페이지를 확인하세요.",
+                      "featureIds":  [
+                                         "layer-map",
+                                         "drawing-cleanup",
+                                         "area-object-cleanup",
+                                         "cem",
+                                         "contour-interpolation",
+                                         "road-center-line-auto",
+                                         "adx",
+                                         "odi",
+                                         "odp",
+                                         "lac1",
+                                         "lac2",
+                                         "layer-rule-audit",
+                                         "utility-depth",
+                                         "profile-generator",
+                                         "km2",
+                                         "dw",
+                                         "csg",
+                                         "paving-inserter",
+                                         "big-cross",
+                                         "sac",
+                                         "cpa",
+                                         "fqa",
+                                         "awq",
+                                         "qt",
+                                         "sheet-report",
+                                         "plant-pipe-quantity-input",
+                                         "coord-convert",
+                                         "field-plot-500",
+                                         "drawing-compare-apply",
+                                         "mms-qa",
+                                         "pipe-settings",
+                                         "layer-manage",
+                                         "license-manage"
+                                     ],
+                      "featureChanges":  [
+                                             {
+                                                 "changeId":  "chg-v1.8.1-layer-map-updated",
+                                                 "featureId":  "layer-map",
+                                                 "type":  "updated",
+                                                 "displayAs":  "badge"
+                                             }
+                                         ]
+                  },
+                  {
                       "tag":  "v1.8.0",
                       "published_at":  "2026-05-22T06:16:14Z",
                       "body":  "",
