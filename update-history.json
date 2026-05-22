@@ -2,8 +2,8 @@
     "items":  [
                   {
                       "tag":  "v1.8.0",
-                      "published_at":  "2026-05-22T06:08:35.6027352Z",
-                      "body":  "릴리즈 노트는 GitHub Releases 페이지를 확인하세요.",
+                      "published_at":  "2026-05-22T06:16:14Z",
+                      "body":  "",
                       "featureIds":  [
                                          "layer-map",
                                          "drawing-cleanup",
@@ -57,13 +57,26 @@
                                                  "featureId":  "utility-depth",
                                                  "type":  "updated",
                                                  "displayAs":  "badge"
+                                             },
+                                             {
+                                                 "changeId":  "chg-v1.8.0-area-object-cleanup-new",
+                                                 "featureId":  "area-object-cleanup",
+                                                 "type":  "new",
+                                                 "displayAs":  "badge"
+                                             },
+                                             {
+                                                 "changeId":  "chg-v1.8.0-layer-rule-audit-new",
+                                                 "featureId":  "layer-rule-audit",
+                                                 "type":  "new",
+                                                 "displayAs":  "badge"
+                                             },
+                                             {
+                                                 "changeId":  "chg-v1.8.0-mms-qa-new",
+                                                 "featureId":  "mms-qa",
+                                                 "type":  "new",
+                                                 "displayAs":  "badge"
                                              }
                                          ]
-                  },
-                  {
-                      "tag":  "v1.7.5",
-                      "published_at":  "2026-05-07T08:16:47Z",
-                      "body":  ""
                   },
                   {
                       "tag":  "v1.7.4",
