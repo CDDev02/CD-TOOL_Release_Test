@@ -2,8 +2,8 @@
     "items":  [
                   {
                       "tag":  "v1.8.1",
-                      "published_at":  "2026-05-26T00:46:33.9056680Z",
-                      "body":  "릴리즈 노트는 GitHub Releases 페이지를 확인하세요.",
+                      "published_at":  "2026-05-26T00:47:35Z",
+                      "body":  "",
                       "featureIds":  [
                                          "layer-map",
                                          "drawing-cleanup",
