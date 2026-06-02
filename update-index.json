@@ -1,7 +1,7 @@
 {
-    "tag": "v1.8.3",
-    "revision": "639159720066432168",
-    "generated_at": "2026-06-02T04:40:06.6432168Z",
+    "tag": "v1.8.0",
+    "revision": "639159869600597597",
+    "generated_at": "2026-06-02T08:49:20.0597597Z",
     "assets": [
         "integrity.json",
         "integrity.sig",
