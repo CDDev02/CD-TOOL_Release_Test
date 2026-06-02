@@ -1,9 +1,29 @@
 {
     "items": [
         {
+            "tag": "v1.8.3",
+            "published_at": "2026-06-02T04:40:07.1637760Z",
+            "body": "v1.8.3 뱃지 테스트",
+            "featureIds": ["layer-map", "drawing-cleanup", "area-object-cleanup", "cem", "contour-interpolation", "road-center-line-auto", "adx", "odi", "odp", "lac1", "lac2", "layer-rule-audit", "utility-depth", "profile-generator", "km2", "dw", "csg", "paving-inserter", "big-cross", "sac", "cpa", "fqa", "awq", "qt", "sheet-report", "plant-pipe-quantity-input", "coord-convert", "field-plot-500", "drawing-compare-apply", "mms-qa", "pipe-settings", "layer-manage", "license-manage"],
+            "featureChanges": [
+                {
+                    "changeId": "chg-v1.8.3-adx-updated",
+                    "featureId": "adx",
+                    "type": "updated",
+                    "displayAs": "badge"
+                },
+                {
+                    "changeId": "chg-v1.8.3-odi-new",
+                    "featureId": "odi",
+                    "type": "new",
+                    "displayAs": "badge"
+                }
+            ]
+        },
+        {
             "tag": "v1.8.2",
             "published_at": "2026-06-01T04:44:49Z",
-            "body": "v1.8.2 인뎅 ㅋㅋ 빌드툴 테스트\r\n아\r\n새로운 패치 테스트 ㅋㅋ",
+            "body": "v1.8.2 인뎅 ㅋㅋ 빌드툴 테스트",
             "featureIds": ["layer-map", "drawing-cleanup", "area-object-cleanup", "cem", "contour-interpolation", "road-center-line-auto", "adx", "odi", "odp", "lac1", "lac2", "layer-rule-audit", "utility-depth", "profile-generator", "km2", "dw", "csg", "paving-inserter", "big-cross", "sac", "cpa", "fqa", "awq", "qt", "sheet-report", "plant-pipe-quantity-input", "coord-convert", "field-plot-500", "drawing-compare-apply", "mms-qa", "pipe-settings", "layer-manage", "license-manage"],
             "featureChanges": [
                 {
