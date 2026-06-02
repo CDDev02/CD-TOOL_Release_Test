@@ -3,7 +3,7 @@
         {
             "tag": "v1.8.2",
             "published_at": "2026-06-01T04:44:49Z",
-            "body": "v1.8.2 인뎅 ㅋㅋ 빌드툴 테스트",
+            "body": "v1.8.2 인뎅 ㅋㅋ 빌드툴 테스트\r\n아\r\n새로운 패치 테스트 ㅋㅋ",
             "featureIds": ["layer-map", "drawing-cleanup", "area-object-cleanup", "cem", "contour-interpolation", "road-center-line-auto", "adx", "odi", "odp", "lac1", "lac2", "layer-rule-audit", "utility-depth", "profile-generator", "km2", "dw", "csg", "paving-inserter", "big-cross", "sac", "cpa", "fqa", "awq", "qt", "sheet-report", "plant-pipe-quantity-input", "coord-convert", "field-plot-500", "drawing-compare-apply", "mms-qa", "pipe-settings", "layer-manage", "license-manage"],
             "featureChanges": [
                 {
