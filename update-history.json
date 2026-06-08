@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "tag": "v1.8.1",
+            "published_at": "2026-06-08T00:20:35.3110564Z",
+            "body": "종횡단 버그수정",
+            "featureIds": ["layer-map", "drawing-cleanup", "area-object-cleanup", "cem", "contour-interpolation", "road-center-line-auto", "adx", "odi", "odp", "lac1", "lac2", "layer-rule-audit", "utility-depth", "profile-generator", "km2", "dw", "csg", "paving-inserter", "big-cross", "sac", "cpa", "fqa", "awq", "qt", "sheet-report", "plant-pipe-quantity-input", "coord-convert", "field-plot-500", "drawing-compare-apply", "mms-qa", "eo-shp-conversion", "pipe-settings", "layer-manage", "license-manage"]
+        },
+        {
             "tag": "v1.8.0",
             "published_at": "2026-05-22T07:53:47Z",
             "body": "",
