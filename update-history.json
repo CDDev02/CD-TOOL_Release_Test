@@ -4,7 +4,15 @@
             "tag": "v1.8.1",
             "published_at": "2026-06-08T00:20:49Z",
             "body": "종횡단 버그수정",
-            "featureIds": ["layer-map", "drawing-cleanup", "area-object-cleanup", "cem", "contour-interpolation", "road-center-line-auto", "adx", "odi", "odp", "lac1", "lac2", "layer-rule-audit", "utility-depth", "profile-generator", "km2", "dw", "csg", "paving-inserter", "big-cross", "sac", "cpa", "fqa", "awq", "qt", "sheet-report", "plant-pipe-quantity-input", "coord-convert", "field-plot-500", "drawing-compare-apply", "mms-qa", "eo-shp-conversion", "pipe-settings", "layer-manage", "license-manage"]
+            "featureIds": ["layer-map", "drawing-cleanup", "area-object-cleanup", "cem", "contour-interpolation", "road-center-line-auto", "adx", "odi", "odp", "lac1", "lac2", "layer-rule-audit", "utility-depth", "profile-generator", "km2", "dw", "csg", "cross-section-ground-align", "paving-inserter", "big-cross", "sac", "cpa", "fqa", "awq", "qt", "sheet-report", "plant-pipe-quantity-input", "coord-convert", "field-plot-500", "drawing-compare-apply", "mms-qa", "eo-shp-conversion", "pipe-settings", "layer-manage", "license-manage"],
+            "featureChanges": [
+                {
+                    "changeId": "chg-v1.8.1-cross-section-ground-align-new",
+                    "featureId": "cross-section-ground-align",
+                    "type": "new",
+                    "displayAs": "badge"
+                }
+            ]
         },
         {
             "tag": "v1.8.0",
