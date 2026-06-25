@@ -2,8 +2,8 @@
     "items": [
         {
             "tag": "v1.8.2",
-            "published_at": "2026-06-25T00:46:47.6204615Z",
-            "body": "릴리즈 노트는 GitHub Releases 페이지를 확인하세요.",
+            "published_at": "2026-06-25T00:48:34Z",
+            "body": "🐛 버그 수정\r\n\r\n*   알람 아이콘 클릭 시 프로그램이 튕기던 문제 수정 (배포 파일 누락이 원인)\r\n*   MMS QA에서 0.75 구간이 인식되지 않던 문제 수정",
             "featureIds": ["layer-map", "drawing-cleanup", "area-object-cleanup", "cem", "contour-interpolation", "road-center-line-auto", "adx", "odi", "odp", "lac1", "lac2", "layer-rule-audit", "utility-depth", "profile-generator", "km2", "dw", "csg", "cross-section-ground-align", "paving-inserter", "big-cross", "sac", "cpa", "fqa", "awq", "qt", "sheet-report", "plant-pipe-quantity-input", "coord-convert", "field-plot-500", "drawing-compare-apply", "mms-qa", "eo-shp-conversion", "pipe-settings", "layer-manage", "license-manage"],
             "featureChanges": [
                 {

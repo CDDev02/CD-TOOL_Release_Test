@@ -1,7 +1,7 @@
 {
     "tag": "installer",
-    "revision": "639179452067267662",
-    "generated_at": "2026-06-25T00:46:46.7267662Z",
+    "revision": "639179456689812824",
+    "generated_at": "2026-06-25T00:54:28.9812824Z",
     "assets": [
         "CDTOOL_Setup.exe",
         "CDTOOL_Updater.exe",
