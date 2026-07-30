@@ -1,6 +1,56 @@
 {
     "items": [
         {
+            "tag": "v1.8.3",
+            "published_at": "2026-07-30T05:53:16.0237375Z",
+            "body": "## ✨ 신규 기능\r\n\r\n- EO 데이터 SHP 변환 기능 추가\r\n  - 외부 표정(EO) CSV 파일을 PointZ SHP로 변환\r\n- EO 사진 복사본 생성 기능 추가\r\n  - CameraPos CSV의 사진 이름 기준으로 복사본 JPG를 일괄 생성\r\n  - 원본 사진은 그대로 두고 CameraNN_EDIT 폴더에만 새 파일 생성\r\n\r\n## 🔧 기능 개선\r\n\r\n- MMS QA 검수 항목 추가\r\n  - 속성 필수값·코드값 검수 (비어 있으면 안 되는 값과 잘못된 코드값 검출)\r\n  - 기본 도형 검수 (Z값 누락, 중복 정점, 선형 꼬임 등)\r\n  - NT1_NODE ↔ NT2_LINK 연관성 검수 (좌표와 노드 ID 매칭 여부 확인)\r\n  - 레이어 간 링크 ID 검수\r\n\r\n## 🐛 버그 수정\r\n\r\n- 횡단면도 베이스 생성\r\n  - 2D 도면의 차선 레이어가 한글일 때 3D 도면이 없다고 잘못 판정되던 문제 수정\r\n  - 2D / 3D 병합 시 3D 정점이 남아 정점 위치가 2D 기준으로 정리되지 않던 문제 수정\r\n  - 좌안·우안 구분이 불명확해 반대쪽 지반 높이를 끌어오던 문제 수정\r\n    - 연석·지장물·건물 범례가 같은 지반 높이 계산 로직을 공용으로 사용하도록 통일\r\n  - 건물 범례가 지반선에 붙지 않던 문제 수정\r\n- 종단면도\r\n  - 지반고 수정 시 관상고가 함께 갱신되지 않던 문제 수정\r\n  - 지반고 수정 시 심도가 1로 초기화되던 문제 수정\r\n  - 잘못 바뀐 심도를 원래 값으로 복원할 수 있도록 수정\r\n\r\n## 🎨 UI / UX 개선\r\n\r\n- MMS QA, EO 데이터 변환, EO 사진 복사본 생성 화면을 공통 UI 규칙에 맞게 정비",
+            "featureIds": ["layer-map", "drawing-cleanup", "area-object-cleanup", "cem", "contour-interpolation", "road-center-line-auto", "adx", "odi", "odp", "lac1", "lac2", "layer-rule-audit", "utility-depth", "profile-generator", "km2", "dw", "csg", "cross-section-ground-align", "paving-inserter", "big-cross", "sac", "cpa", "fqa", "awq", "qt", "sheet-report", "plant-pipe-quantity-input", "coord-convert", "field-plot-500", "drawing-compare-apply", "mms-qa", "eo-shp-conversion", "eo-image-rename", "pipe-settings", "layer-manage", "license-manage"],
+            "featureChanges": [
+                {
+                    "changeId": "chg-v1.8.3-adx-updated",
+                    "featureId": "adx",
+                    "type": "updated",
+                    "displayAs": "badge"
+                },
+                {
+                    "changeId": "chg-v1.8.3-odi-new",
+                    "featureId": "odi",
+                    "type": "new",
+                    "displayAs": "badge"
+                },
+                {
+                    "changeId": "chg-v1.8.3-profile-generator-updated",
+                    "featureId": "profile-generator",
+                    "type": "updated",
+                    "displayAs": "badge"
+                },
+                {
+                    "changeId": "chg-v1.8.3-csg-updated",
+                    "featureId": "csg",
+                    "type": "updated",
+                    "displayAs": "badge"
+                },
+                {
+                    "changeId": "chg-v1.8.3-mms-qa-updated",
+                    "featureId": "mms-qa",
+                    "type": "updated",
+                    "displayAs": "badge"
+                },
+                {
+                    "changeId": "chg-v1.8.3-eo-shp-conversion-new",
+                    "featureId": "eo-shp-conversion",
+                    "type": "new",
+                    "displayAs": "badge"
+                },
+                {
+                    "changeId": "chg-v1.8.3-eo-image-rename-new",
+                    "featureId": "eo-image-rename",
+                    "type": "new",
+                    "displayAs": "badge"
+                }
+            ]
+        },
+        {
             "tag": "v1.8.2",
             "published_at": "2026-06-25T00:48:34Z",
             "body": "🐛 버그 수정\r\n\r\n*   알람 아이콘 클릭 시 프로그램이 튕기던 문제 수정 (배포 파일 누락이 원인)\r\n*   MMS QA에서 0.75 구간이 인식되지 않던 문제 수정",
